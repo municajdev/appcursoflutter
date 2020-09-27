@@ -67,6 +67,15 @@ class HomePage extends StatelessWidget {
               trailing: Icon(Icons.arrow_forward_ios),
               title: Text("FLUTTER"),
               subtitle: Text("How about meeting tomorrow FLUTTER"),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage:
+                    AssetImage("assets/google-flutter-logo-white.png"),
+              ),
+              trailing: Icon(Icons.arrow_forward_ios),
+              title: Text("FLUTTER"),
+              subtitle: Text("How about meeting tomorrow FLUTTER"),
             )
           ],
         ),
