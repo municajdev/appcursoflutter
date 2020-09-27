@@ -65,7 +65,7 @@ class HomePage extends StatelessWidget {
                     AssetImage("assets/google-flutter-logo-white.png"),
               ),
               trailing: Icon(Icons.arrow_forward_ios),
-              title: Text("FLUTTER"),
+              title: Text("FLUTTER EL MEJOR FRAMEWORK PARA APP MOVILES"),
               subtitle: Text("How about meeting tomorrow FLUTTER"),
             ),
             ListTile(
@@ -74,8 +74,8 @@ class HomePage extends StatelessWidget {
                     AssetImage("assets/google-flutter-logo-white.png"),
               ),
               trailing: Icon(Icons.arrow_forward_ios),
-              title: Text("FLUTTER"),
-              subtitle: Text("How about meeting tomorrow FLUTTER"),
+              title: Text("FLUTTER CAMPEON"),
+              subtitle: Text("APRENDIENDO FLUTTER"),
             )
           ],
         ),
